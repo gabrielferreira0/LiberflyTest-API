@@ -16,6 +16,7 @@ class TransactionTest extends TestCase
         $email = env('API_USER_EMAIL');
         $password = env('API_USER_PASSWORD');
 
+
         $authUser = $this->json('POST', 'api/auth/login', [
             'email' => $email,
             'password' => $password
