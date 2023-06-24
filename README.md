@@ -58,5 +58,5 @@ http://localhost:8000/api/documentation
 ```
 ## Imagens
 ![Screenshot_1](/public/swagger.png "Screenshot_1")
-![Screenshot_3](/public/teste.png "Screenshot_2")
+![Screenshot_3](/public/test.png "Screenshot_2")
 
