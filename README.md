@@ -10,6 +10,10 @@
 ### Step 1
 
 ```bash
+git clone https://github.com/gabrielferreira0/LiberflyTest-API.git
+```
+
+```bash
 copy .env.example .env
 ```
 <h2>Preencha com os dados de conexão para o banco no .env</h2>
